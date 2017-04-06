@@ -50,3 +50,12 @@
 - Service Workers and PWAs
 - Backend as a Service / Serverless
 - JS Developers / UI Developers
+
+## What's next?
+- Neuralink?
+- Users are beyond the smartphone, they want a smart web
+- Mixed Reality, for sure
+- Data Visualization, beyond D3, Dynamic infographics?
+- A/B Testing powered by Machine Learning
+- Even smarter Analytics
+- JS is the safest bet
